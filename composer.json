@@ -13,6 +13,10 @@
         {
             "type": "composer",
             "url": "https://packages.drupal.org/8"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/ironstar-io/d8-template" 
         }
     ],
     "require": {
@@ -38,8 +42,7 @@
         "webflo/drupal-core-require-dev": "^8.6.0",
         "drupal/coder": "~8",
         "drupal/console": "~1.0",
-        "drupal/devel": "^1.2",
-        "mikey179/vfsStream": "~1.2"
+        "drupal/devel": "^1.2"
     },
     "conflict": {
         "drupal/drupal": "*"
