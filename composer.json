@@ -1,5 +1,5 @@
 {
-    "name": "ironstar-io/drupal8-starter",
+    "name": "ironstar-io/d8-template",
     "description": "Project template for Drupal 8 projects with composer",
     "type": "project",
     "license": "GPL-2.0-or-later",
