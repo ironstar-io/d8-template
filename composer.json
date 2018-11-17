@@ -32,8 +32,6 @@
         "drupal/purge": "~3.0",
         "drupal/purge_queuer_url": "^1.0@RC",
         "drupal/swiftmailer": "^1.0@beta",
-        "drupal/cloudfront_purger": "^1.1",
-        "drupal/varnish_purge": "^1.11",
         "vlucas/phpdotenv": "^2.4",
         "webflo/drupal-finder": "^1.0.0",
         "webmozart/path-util": "^2.3"
