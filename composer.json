@@ -16,21 +16,19 @@
         },
         {
             "type": "vcs",
-            "url": "https://github.com/ironstar-io/d8-template" 
+            "url": "https://github.com/ironstar-io/d8-template"
         }
     ],
     "require": {
         "composer/installers": "^1.2",
         "cweagans/composer-patches": "^1.6.5",
-        "drupal-composer/drupal-scaffold": "^2.5",        
+        "drupal-composer/drupal-scaffold": "^2.5",
         "drupal/core": "^8.6.0",
-        "drush/drush": "^9.0.0",
+        "drush/drush": "^9.5.0",
         "drupal/health_check": "^1.0",
         "drupal/memcache": "^2.0",
         "drupal/monolog": "^1.0@alpha",
         "drupal/password_policy": "~3.0",
-        "drupal/purge": "~3.0",
-        "drupal/purge_queuer_url": "^1.0@RC",
         "drupal/swiftmailer": "^1.0@beta",
         "vlucas/phpdotenv": "^2.4",
         "webflo/drupal-finder": "^1.0.0",
@@ -53,7 +51,7 @@
     "autoload": {
         "classmap": [
             "scripts/composer/ScriptHandler.php"
-        ]        
+        ]
     },
     "scripts": {
         "pre-install-cmd": [
